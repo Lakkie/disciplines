@@ -1,0 +1,5 @@
+非欧几何学Non-Euclidean Geometry
+
+双曲几何‌（Hyperbolic Geometry）：否定平行公设，三角形内角和小于180°。
+椭圆几何‌（Elliptic Geometry）：无平行线，三角形内角和大于180°。
+黎曼几何‌（Riemannian Geometry）：微分几何基础，研究弯曲空间，广义相对论的数学框架。
