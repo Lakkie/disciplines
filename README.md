@@ -1,1 +1,1 @@
-# disciplines
+# Basic Academic Disciplines
