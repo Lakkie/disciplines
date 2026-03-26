@@ -1,4 +1,5 @@
-# Concepts from Basic Academic Disciplines
+# Concepts from Basic Disciplines
+
 人类如何认知概念？ How do humans perceive concepts?  
 机器如何认知概念？ How do machines perceive concepts?  
 人类认知如何推广到机器认知？ How can human cognition be extended to machine cognition?  
